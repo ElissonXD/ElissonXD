@@ -37,7 +37,7 @@
     <ul>
       <li><a href="https://github.com/ElissonXD/CyberShop">CyberShop</a> - Full-stack JavaScript e-commerce store.</li>
       <li><a href="https://github.com/ElissonXD/CV-Application">CV-Application</a> - React-based CV generator.</li>
-      <li><a href="https://github.com/ElissonXD/desafio-vlab-hub-recursos">Hub-Recursos</a> - Full-stack JavaScript + Python app for educational materials using AI.</li>
+      <li><a href="https://github.com/ElissonXD/hub-recursos-educacionais-2.0">Hub-Recursos</a> - Full-stack JavaScript app for educational materials using AI.</li>
       <li><a href="https://github.com/marcosdidier/projetoIESI">projetoIESI</a> - Extension project made with Streamlit and FastAPI.</li>
       <li><a href="https://github.com/ElissonXD/Odin-Project-Solutions">Odin Project</a> - Solutions for The Odin Project curriculum.</li>
     </ul>
